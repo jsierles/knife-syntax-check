@@ -2,7 +2,7 @@
 $:.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name         = 'knife-ec2'
+  s.name         = 'knife-syntax-check'
   s.version      = '0.0.1'
   s.authors      = ['Chris Doughty']
   s.email        = ['cdoughty77@gmail.com']
